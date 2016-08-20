@@ -1,16 +1,15 @@
-NRF24L01 breakout board socket
+NRF24L01 Breakout Board Socket
 ==============================
 
-This is a utility breakout board for connecting NRF24L01 with pinout of 2x4 pins modules
-
+This is a utility breakout board for connecting NRF24L01 with pinout of 2x4 pins modules. Sometime you need to do prototyping or testing on breadbord, and this board will exactly do this job perfectly!
 
 this breakout have the following features: 
 
 - 10uF Capacitor on VCC line (PTH or SMD)
 - Power LED
-- Nice pinout reading on silk
+- Nice pinout reading of exposed pins on PCB silk
 
-If you follow me, you know that I like to use simple NRF24L01 pinout on all my projects, so this mean you can also use this breakout with the following other breakout for HopeRF modules
+If you follow me, you know that I like to use simple NRF24L01 pinout on all my projects, so this mean you can also use this breakout with the following other breakout for HopeRF modules such as:
 
 - RFM12B or RFM69CW with SD and Flash EEP [Breakout Board][2]
 - RFM69W with SD and Flash EEP [Breakout Board][3]
@@ -19,7 +18,7 @@ If you follow me, you know that I like to use simple NRF24L01 pinout on all my p
 Detailed Description
 ====================
 
-Nothing fancy, just a matter of Wiring, see schematics to see pins exposed.
+Nothing fancy, just a matter of wiring, see schematics to view pins exposed.
 
 ###Schematic
 ![schematic](https://raw.github.com/hallard/NRF24-Breakout/master/pictures/NRF24-breakout-sch.png)

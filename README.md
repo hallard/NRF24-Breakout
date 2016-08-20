@@ -46,7 +46,7 @@ You can do whatever you like with this design.
 See news and other projects on my [blog][5] 
 
 [1]: http://hallard.me
-[2]: [https://github.com/hallard/RFM12B-BreakOut]
+[2]: https://github.com/hallard/RFM12B-BreakOut
 [3]: https://github.com/hallard/RFM69W-BreakOut
 [4]: https://github.com/hallard/Lora-Breakout
 [5]: https://PCBs.io
